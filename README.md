@@ -16,6 +16,12 @@
 
 Epitech graduate (MSc). Currently looking for remote support tech / sysadmin roles.
 
+---
+
+### Featured project
+
+[**wttj-job-bot**](https://github.com/Bfault/wttj-job-bot) — Automate job hunting on Welcome to the Jungle. Scrape companies and send spontaneous applications. Python + Playwright + Docker.
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bfault&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bfault&layout=compact&theme=dark&hide_border=true"/>
